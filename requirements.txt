@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+python-multipart
+python-docx
+PyPDF2
+scikit-learn
+numpy
